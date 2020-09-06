@@ -15,7 +15,7 @@ int i,a[]={2,4,6,8,10};
 change (a,5);
 for(i=0;i<=4;i++);
 
-printf("%d",a[i]);
+//printf("%d",a[i]);
 return 0;
 
 }
